@@ -1,0 +1,5 @@
+Para resolver esta situacion es posible utilizar el comando git stash.
+con el mismo la idea es almacenar temporalmente los cambios sobre los que se este trabajando y trabajar en otra cosa.
+en este caso cambiar de branch con git switch y borrar el archivo indicado con git rm nombre de archivo.
+Una vez realizada la tarea, para volver a los cambios guardados debemos volver a la rama sobre la que trabajabamos.
+Y ejecutar el comando git stash apply nombre del stash, si no lo sabemos con git stash list, listamos todos los stash que tengamos guardados localmente.

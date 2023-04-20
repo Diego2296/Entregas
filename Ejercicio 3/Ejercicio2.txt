@@ -1,0 +1,2 @@
+En principio debemos de cambiar de la rama en la que estamos a la master con git checkout y ejecutar el git pull.
+En segunda instancia usamos el comando git merge front-react que es la rama que queremos fusionar a la master.
