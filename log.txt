@@ -1,0 +1,12 @@
+F:\BootCamp Java\Entregas>git log
+commit 2b26ebbacc299b23956791dc5caa7f8a3280c1e0 (HEAD -> master, origin/master)
+Author: diego <fdiego2296@gmail.com>
+Date:   Thu Apr 20 17:57:39 2023 -0300
+
+    segundo commit
+
+commit 685510a0d233c55405b3241acbb60f94015476b1
+Author: diego <fdiego2296@gmail.com>
+Date:   Thu Apr 20 17:51:42 2023 -0300
+
+    primer commit
