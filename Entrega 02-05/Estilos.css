@@ -1,0 +1,59 @@
+*{
+    background-color: #edf7ff;
+}
+
+.contenedor {
+    border-top: 5px solid #8a9af1;
+    padding-left: 10%;
+    padding-right: 40%;
+}
+
+.titulo1 {
+    font-family: 'MuseoModerno', cursive;
+    color: #0a2ff1;
+    font-size: 88pt;
+    font-weight: 700;
+    margin-bottom: -8%;
+}
+
+.titulo2 {
+    font-family: 'MuseoModerno', cursive;
+    color: #0a2ff1;
+    font-size: 36pt;
+    font-weight: 700;
+    padding-top: 50px;
+}
+
+.titulo3 {
+    font-family: 'MuseoModerno', cursive;
+    font-size: 149pt;
+    font-weight: 700;
+    color: #8a9af1;
+
+}
+
+.subtitulo {
+    font-family: 'Asap', sans-serif;
+    font-size: 39pt;
+    color: #0a2ff1;
+    font-weight: 400;
+    margin-bottom: 10%;
+}
+
+.Parrafo {
+    font-family: 'Asap', sans-serif;
+    font-size: 25pt;
+    color: #04146c;
+    font-weight: 400;
+}
+
+.items {
+    font-family: 'Asap', sans-serif;
+    font-size: 25pt;
+    color: #04146c;
+    font-weight: 400;
+}
+
+.list {
+    padding: 17px;
+}
