@@ -1,0 +1,40 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.cont0 {
+    background-color: black;
+    height: 2200px;
+    width: 1600px;
+}
+.cont1 {
+    font-size: 50pt;
+    color: white;
+    text-align: center;
+}
+.cont2 {
+    background-color: white;
+    font-size: 148pt;
+    border: 2px solid black;
+    text-align: center;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+.cont3 {
+    font-size: 163pt;
+    color: white;
+    text-align: center;
+}
+.cont4 {
+    background-color: white;
+    font-size: 45pt;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.cont5 {
+    font-size: 44pt;
+    color: white;
+    text-align: center;
+    font-weight: 600;
+}
