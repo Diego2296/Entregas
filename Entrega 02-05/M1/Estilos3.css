@@ -1,0 +1,41 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.cont0 {
+    height: 2200px;
+    width: 1600px;
+    border-top: 30px solid #0a2ff1;
+    border-bottom: 30px solid #0a2ff1;
+}
+.cont1 {
+    font-size: 50pt;
+    background-color: white;
+    text-align: center;
+    color: #0a2ff1;
+}
+.cont2 {
+    background-color: black;
+    font-size: 148pt;
+    color: white;
+    text-align: center;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+.cont3 {
+    font-size: 163pt;
+    color: black;
+    text-align: center;
+}
+.cont4 {
+    background-color: white;
+    font-size: 45pt;
+    text-align: center;
+    color: #0a2ff1;
+}
+
+.cont5 {
+    font-size: 44pt;
+    color: #0a2ff1;
+    text-align: center;
+}
