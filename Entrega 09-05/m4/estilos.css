@@ -2,7 +2,7 @@
     font-family: 'Poppins', sans-serif;
 }
 body {
-    background-image: url(./Ejercicio1/M4-desafio1-fondo.png);
+    background-image: url(./images/Ejercicio1/M4-desafio1-fondo.png);
 }
 
 h1 {
@@ -30,7 +30,7 @@ button {
 }
 
 div {
-    background-image: url(../images/Ejercicio1/M4-desafio1-fondo-form.png);
+    background-image: url(./images/Ejercicio1/M4-desafio1-fondo-form.png);
     width: 50%;
 }
 
@@ -40,5 +40,4 @@ form {
     padding: 20px;
     margin: auto;
     text-align: center;
-
 }
