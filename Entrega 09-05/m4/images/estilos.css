@@ -1,0 +1,44 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    background-image: url(./Ejercicio1/M4-desafio1-fondo.png);
+}
+
+h1 {
+    font-size: 24.8pt;
+    font-weight: 700;
+    color: #04146c;
+}
+
+input {
+    font-size: 17pt;
+    font-weight: 400;
+    color: #414166;
+    height: 50px;
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+button {
+    font-size: 17pt;
+    background-color: #15163d;
+    color: white;
+    font-weight: 600;
+    height: 50px;
+    width: 500px;
+}
+
+div {
+    background-image: url(../images/Ejercicio1/M4-desafio1-fondo-form.png);
+    width: 50%;
+}
+
+form {
+    width: 600px;
+    height: 400px;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+
+}
