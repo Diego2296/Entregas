@@ -1,0 +1,51 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    font-size: 72pt;
+    color: #0a2ff1;
+}
+
+p {
+    font-weight: 400;
+    font-size: 26pt;
+    color: #04146c;
+}
+
+.logo {
+    width: 5%;
+}
+
+a {
+    font-size: 18pt;
+    font-weight: 400;
+    color: #04146c;
+    text-decoration: none;
+}
+
+header {
+    border-top: 20px #4C56F3 solid;
+}
+
+header div {
+    text-align: center;
+}
+
+header nav {
+    padding: 2%;
+}
+
+header nav a {
+    padding-left: 2%;
+}
+
+img {
+    width: 100%;
+}
+
+a:active {
+    font-weight: bold;
+}
