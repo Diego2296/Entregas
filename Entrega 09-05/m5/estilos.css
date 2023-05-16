@@ -49,3 +49,37 @@ img {
 a:active {
     font-weight: bold;
 }
+
+
+
+h2 {
+    font-family: 'Roboto Slab', serif;
+    color: #0a2ff1;
+    font-weight: 700;
+    font-size: 34pt;
+}
+
+.pf1{
+    font-size: 18pt;
+    font-weight: 700;
+    color: #04146c;
+}
+
+.pf2 {
+    font-size: 18pt;
+    font-weight: 400;
+    color: #04146c;
+}
+
+
+.contenedor {
+    position: relative;
+    display: inline-block;
+    background-image: url(./images/M5-Desafio3-img.png);
+    background-size: 61%;
+    background-position: top right;
+    background-repeat: no-repeat;
+    width: 100%;
+    border-bottom: 60px #4C56F3 solid;
+}
+
