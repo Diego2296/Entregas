@@ -1,0 +1,17 @@
+*{
+    font-family: 'Mulish', sans-serif;
+}
+
+
+body main h1 {
+    font-weight: bold;
+    color: #3957f1;
+}
+
+.card-title {
+    color: #15163d;
+}
+
+div {
+    flex-wrap: wrap;
+ }
