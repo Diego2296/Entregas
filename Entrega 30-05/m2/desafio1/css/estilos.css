@@ -1,0 +1,46 @@
+* {
+    font-family: 'Mulish', sans-serif;
+}
+
+body main .row .col .card {
+    border: none;
+}
+body main h1 {
+    font-weight: bold;
+    color: #04146c;
+    font-size: 49pt;
+}
+
+body main .row  h2 {
+    font-weight: bold;
+    color: #0a2ff1;
+    font-size: 30pt;
+}
+
+body main .row h3 {
+    font-weight: bold;
+    color: #04146c;
+    font-size: 18pt;
+}
+
+body main .row p {
+    font-weight: regular;
+    color: #04146c;
+    font-size: 18pt;
+
+}
+
+.btn {
+    font-weight: regular;
+    color: #04146c;
+    font-size: 18pt;
+    border-color: #0a2ff1;
+}
+
+
+body main .row .col .card img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
