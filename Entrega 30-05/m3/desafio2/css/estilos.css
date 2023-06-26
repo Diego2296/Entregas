@@ -1,0 +1,42 @@
+* {
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+body main .card .row h1 {
+    color: #04146c;
+    font-size: 62pt;
+    font-style: black;
+    font-weight: 900;
+}
+
+body main .card .row p {
+    color: #04146c;
+    font-size: 16pt;
+    font-weight: 400;
+}
+
+body main .card .row span {
+    color: #04146c;
+    font-size: 16pt;
+    font-weight: 400;
+    font-style: italic;
+}
+
+body main .card .row button {
+    background-color: #04146c;
+    border-color: #04146c;
+    font-size: 14pt;
+    font-weight: 400;
+    font-variant: small-caps;
+    width: 150px;
+}
+
+body main .card .row .col img {
+    size: 80%;
+}
+
+@media (max-width: 767.98px) {
+    body main .card .row .col img {
+        size: 100%;
+    }
+}
