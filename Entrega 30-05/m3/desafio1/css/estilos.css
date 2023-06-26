@@ -1,0 +1,34 @@
+* {
+    font-family: 'Mulish', sans-serif;
+}
+
+body main form label {
+    font-weight: 600;
+    font-size: 18pt;
+    color: #04146c;
+}
+
+body main form .infoText {
+    color: #04146c;
+    font-size: 13pt;
+    font-weight: 400;
+    font-style: italic;
+}
+
+body main form .label2 {
+    font-weight: 400;
+    font-size: 18pt;
+    color: #04146c;
+}
+
+body main form button {
+    background-color: #5974ff !important;
+    font-size: 18pt !important;
+    font-weight: bold !important;
+    width: 150px;
+    height: 50px;
+}
+
+body main form .form-control {
+    border-color: #8a9af1;
+}
