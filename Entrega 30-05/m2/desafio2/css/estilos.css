@@ -1,0 +1,39 @@
+* {
+    font-family: 'Mulish', sans-serif;
+}
+
+body main .card .row h5 {
+    color: #04146c;
+    font-size: 37pt;
+    font-weight: bold;
+}
+
+body main .card .row p {
+    font-weight: regular;
+    color: #04146c;
+    font-size: 18pt;
+}
+
+body main .card .row span {
+    color: #0a2ff1;
+    font-size: 18pt;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+
+    body main .card .row img {
+        height: 100%;
+        width: 100%;
+    }
+
+}
+
+@media (min-width: 769px) {
+
+    body main .card .row img {
+        height: 80%;
+        width: 80%;
+    }
+
+}
